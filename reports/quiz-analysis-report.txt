@@ -1,0 +1,325 @@
+
+====================================================================================================
+REPORT CONTROLLO QUALITÀ QUIZ ANTINCENDIO 3-FOR
+Data: 2025-11-05
+Totale domande analizzate: 345
+====================================================================================================
+
+## EXECUTIVE SUMMARY
+
+- Domande CORRETTE (senza problemi): 172 (49.9%)
+- Domande con PROBLEMI MINORI: 173 (50.1%)
+- Domande con PROBLEMI CRITICI: 0 (0.0%)
+
+
+====================================================================================================
+## PROBLEMI MINORI - DA MIGLIORARE (173 domande)
+====================================================================================================
+
+(Mostro i primi 30 per brevità)
+
+
+### Domanda #1: Si definisce combustione...
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+**OSSERVAZIONE [COERENZA]**: 'Explain' potrebbe non essere coerente con la domanda (poche parole chiave comuni)
+**SUGGERIMENTO**: Verificare che explain risponda direttamente alla domanda
+
+### Domanda #2: Affinché la reazione di combustione abbia luogo è necessaria la presenza di una ...
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #4: In caso di mancata presenza di uno degli elementi del “triangolo del fuoco” (com...
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #5: La propagazione della combustione richiede la presenza contemporanea di...
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #6: Il combustibile è:...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+**OSSERVAZIONE [COERENZA]**: 'Explain' potrebbe non essere coerente con la domanda (poche parole chiave comuni)
+**SUGGERIMENTO**: Verificare che explain risponda direttamente alla domanda
+
+### Domanda #7: Con il termine “rischio di incendio” intendiamo...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+
+### Domanda #8: Per ottenere lo spegnimento dell’incendio si può ricorrere...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #9: Per ottenere lo spegnimento dell’incendio si può ricorrere all’esaurimento del c...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #10: Per ottenere lo spegnimento dell’incendio si può ricorrere al soffocamento, che ...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+**OSSERVAZIONE [COERENZA]**: 'Explain' potrebbe non essere coerente con la domanda (poche parole chiave comuni)
+**SUGGERIMENTO**: Verificare che explain risponda direttamente alla domanda
+
+### Domanda #11: Per ottenere lo spegnimento dell’incendio si può ricorrere al raffreddamento, ch...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #12: Gli incendi, in relazione allo stato chimico-fisico dei materiali combustibili, ...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+
+### Domanda #13: Gli incendi di Classe A, in relazione allo stato fisico dei materiali combustibi...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+
+### Domanda #14: Gli incendi di Classe B, in relazione allo stato fisico dei materiali combustibi...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+
+### Domanda #15: Gli incendi di Classe C, in relazione allo stato fisico dei materiali combustibi...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+
+### Domanda #16: Gli incendi di Classe D, in relazione allo stato fisico dei materiali combustibi...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+
+### Domanda #17: Gli incendi di Classe F, in relazione allo stato fisico dei materiali combustibi...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [COERENZA]**: 'Explain' potrebbe non essere coerente con la domanda (poche parole chiave comuni)
+**SUGGERIMENTO**: Verificare che explain risponda direttamente alla domanda
+
+### Domanda #18: Il combustibile, sostanza che si trasforma durante l’incendio, può trovarsi allo...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+**OSSERVAZIONE [COERENZA]**: 'Explain' potrebbe non essere coerente con la domanda (poche parole chiave comuni)
+**SUGGERIMENTO**: Verificare che explain risponda direttamente alla domanda
+
+### Domanda #19: La temperatura in corrispondenza della quale si verifica la combustione è defini...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo i principi fondamentali della combustione.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+**OSSERVAZIONE [COERENZA]**: 'Explain' potrebbe non essere coerente con la domanda (poche parole chiave comuni)
+**SUGGERIMENTO**: Verificare che explain risponda direttamente alla domanda
+
+### Domanda #20: La più bassa temperatura alla quale un combustibile liquido sviluppa vapori in q...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #21: In presenza di liquidi infiammabili (combustibili), la probabilità che si formin...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #22: Un liquido “infiammabile” (combustibile), ai fini del rischio incendio/esplosion...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo la classificazione degli incendi.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #23: Con limiti di infiammabilità di una sostanza (gassosa o allo stato aeriforme) si...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #24: Il “limite inferiore di infiammabilità” di una sostanza (gassosa o allo stato ae...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #25: Il “limite superiore di infiammabilità” di una sostanza (gassosa o allo stato ae...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #26: Con il termine “campo di infiammabilità” intendiamo:...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #27: La temperatura di accensione...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #28: Il campo di esplosività rappresenta:...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #29: Il Limite inferiore di esplosività è:...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #30: Il Limite superiore di esplosività è:...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [EXPLAIN]**: Mancano riferimenti normativi nella spiegazione
+**SUGGERIMENTO**: Aggiungere riferimenti a norme (UNI EN, D.Lgs, etc.) se pertinenti
+
+### Domanda #31: La combustione delle sostanze solide è caratterizzata dai seguenti parametri:...
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' GENERICA per risposta corretta: 'Risposta corretta secondo i principi fondamentali della combustione.'
+**SUGGERIMENTO**: Rendere la spiegazione più SPECIFICA e didattica
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+**OSSERVAZIONE [WHY]**: Spiegazione 'why' troppo generica per risposta sbagliata
+**SUGGERIMENTO**: Spiegare specificatamente l'errore concettuale
+
+... e altre 143 domande con problemi minori
+
+
+====================================================================================================
+## STATISTICHE DETTAGLIATE
+====================================================================================================
+
+| Categoria | Domande | Percentuale |
+|-----------|---------|-------------|
+| Corrette al 100% | 172 | 49.9% |
+| Con problemi minori | 173 | 50.1% |
+| Con problemi critici | 0 | 0.0% |
+
+### Breakdown per tipo di problema:
+
+- MINORE - COERENZA: 129 occorrenze
+- MINORE - EXPLAIN: 56 occorrenze
+- MINORE - WHY: 124 occorrenze
+
+====================================================================================================
+## RACCOMANDAZIONI GENERALI
+====================================================================================================
+
+2. Migliorare le spiegazioni 'why' (124 problemi rilevati) rendendole più specifiche e didattiche
+3. Arricchire i campi 'explain' (56 problemi) con riferimenti normativi e dettagli tecnici
+
+====================================================================================================
+## AZIONI PRIORITARIE
+====================================================================================================
+
+2. Revisione sistematica delle spiegazioni 'why' troppo generiche
+3. Considerare una revisione generale del quiz per migliorare la qualità complessiva

@@ -1,0 +1,144 @@
+====================================================================================================
+LISTA COMPLETA DOMANDE CON PROBLEMI - PRIORITÀ PER CORREZIONE
+====================================================================================================
+
+Totale domande: 345
+Domande con problemi: 173
+
+
+====================================================================================================
+PRIORITÀ ALTA - Domande con WHY generico + Mancano normative (31 domande)
+====================================================================================================
+
+Queste domande richiedono DOPPIA correzione:
+
+1. Domanda #6: Il combustibile è:...
+2. Domanda #8: Per ottenere lo spegnimento dell’incendio si può ricorrere...
+3. Domanda #9: Per ottenere lo spegnimento dell’incendio si può ricorrere all’esaurimento del c...
+4. Domanda #10: Per ottenere lo spegnimento dell’incendio si può ricorrere al soffocamento, che ...
+5. Domanda #11: Per ottenere lo spegnimento dell’incendio si può ricorrere al raffreddamento, ch...
+6. Domanda #18: Il combustibile, sostanza che si trasforma durante l’incendio, può trovarsi allo...
+7. Domanda #19: La temperatura in corrispondenza della quale si verifica la combustione è defini...
+8. Domanda #20: La più bassa temperatura alla quale un combustibile liquido sviluppa vapori in q...
+9. Domanda #21: In presenza di liquidi infiammabili (combustibili), la probabilità che si formin...
+10. Domanda #22: Un liquido “infiammabile” (combustibile), ai fini del rischio incendio/esplosion...
+11. Domanda #23: Con limiti di infiammabilità di una sostanza (gassosa o allo stato aeriforme) si...
+12. Domanda #24: Il “limite inferiore di infiammabilità” di una sostanza (gassosa o allo stato ae...
+13. Domanda #25: Il “limite superiore di infiammabilità” di una sostanza (gassosa o allo stato ae...
+14. Domanda #26: Con il termine “campo di infiammabilità” intendiamo:...
+15. Domanda #27: La temperatura di accensione...
+16. Domanda #28: Il campo di esplosività rappresenta:...
+17. Domanda #29: Il Limite inferiore di esplosività è:...
+18. Domanda #30: Il Limite superiore di esplosività è:...
+19. Domanda #32: Per i combustibili liquidi, la reazione di combustione, in presenza di innesco, ...
+20. Domanda #33: In funzione della temperatura di infiammabilità i liquidi combustibili...
+21. Domanda #34: I liquidi di categoria “A” sono...
+22. Domanda #35: I liquidi di categoria “B” sono...
+23. Domanda #36: I liquidi di categoria “C” sono...
+24. Domanda #41: Il calore:...
+25. Domanda #44: Le principali sorgenti di attivazione dell’incendio sono...
+26. Domanda #45: Si ha calore per attrito:...
+27. Domanda #46: Si ha autocombustione o riscaldamento spontaneo:...
+28. Domanda #47: Il calore radiante emesso da caminetti e stufe può innescare un incendio?...
+29. Domanda #48: A seguito di una reazione di combustione si ha produzione di...
+30. Domanda #49: I gas di combustione...
+31. Domanda #50: Le fiamme:...
+
+====================================================================================================
+PRIORITÀ MEDIA - Domande con WHY generico (9 domande)
+====================================================================================================
+
+Lista IDs: #7, #12, #13, #14, #15, #16, #17, #31, #42
+
+
+====================================================================================================
+PRIORITÀ BASSA - Domande senza riferimenti normativi (25 domande)
+====================================================================================================
+
+Lista IDs: #1, #2, #4, #5, #38, #39, #40, #51, #52, #53, #54, #60, #61, #63, #64, #65, #66, #67, #69, #78, #80, #82, #87, #91, #94
+
+
+====================================================================================================
+STATISTICHE RIEPILOGATIVE
+====================================================================================================
+
+Problemi doppi (alta priorità): 31
+Solo WHY generico (media priorità): 9
+Solo mancano normative (bassa priorità): 25
+
+Totale domande da correggere: 65
+
+
+====================================================================================================
+ESEMPI CONCRETI - PRIORITÀ ALTA (prime 5 domande)
+====================================================================================================
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+Domanda #6: Il combustibile è:
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+❌ WHY ATTUALE (generico):
+   'Risposta corretta secondo le normative e le buone prassi in materia di sicurezza antincendio....'
+
+⚠️  EXPLAIN ATTUALE (senza normative):
+   'Il combustibile è qualunque sostanza capace di ossidarsi rapidamente in presenza di comburente (O2), partecipando attivamente alla combustione. Può es...'
+
+✅ AZIONI RICHIESTE:
+   1. Riscrivere WHY in modo specifico
+   2. Aggiungere riferimenti normativi all'EXPLAIN
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+Domanda #8: Per ottenere lo spegnimento dell’incendio si può ricorrere
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+❌ WHY ATTUALE (generico):
+   'Risposta corretta secondo la classificazione degli incendi....'
+
+⚠️  EXPLAIN ATTUALE (senza normative):
+   'L'estinzione dell'incendio si ottiene eliminando uno o più elementi del triangolo del fuoco attraverso quattro metodi principali: 1) Esaurimento del c...'
+
+✅ AZIONI RICHIESTE:
+   1. Riscrivere WHY in modo specifico
+   2. Aggiungere riferimenti normativi all'EXPLAIN
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+Domanda #9: Per ottenere lo spegnimento dell’incendio si può ricorrere all’esaurimento del combustibile, che consiste
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+❌ WHY ATTUALE (generico):
+   'Risposta corretta secondo la classificazione degli incendi....'
+
+⚠️  EXPLAIN ATTUALE (senza normative):
+   'L'esaurimento del combustibile è uno dei tre metodi fondamentali di spegnimento: si attua allontanando fisicamente il materiale combustibile dal focol...'
+
+✅ AZIONI RICHIESTE:
+   1. Riscrivere WHY in modo specifico
+   2. Aggiungere riferimenti normativi all'EXPLAIN
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+Domanda #10: Per ottenere lo spegnimento dell’incendio si può ricorrere al soffocamento, che consiste
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+❌ WHY ATTUALE (generico):
+   'Risposta corretta secondo la classificazione degli incendi....'
+
+⚠️  EXPLAIN ATTUALE (senza normative):
+   'Il soffocamento agisce separando il comburente (ossigeno) dal combustibile, riducendo la concentrazione di O2 sotto il 15-16% necessario per sostenere...'
+
+✅ AZIONI RICHIESTE:
+   1. Riscrivere WHY in modo specifico
+   2. Aggiungere riferimenti normativi all'EXPLAIN
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+Domanda #11: Per ottenere lo spegnimento dell’incendio si può ricorrere al raffreddamento, che consiste
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+❌ WHY ATTUALE (generico):
+   'Risposta corretta secondo la classificazione degli incendi....'
+
+⚠️  EXPLAIN ATTUALE (senza normative):
+   'Il raffreddamento è il metodo di spegnimento più comune: sottrae calore dal combustibile fino a portare la temperatura sotto il punto di accensione/in...'
+
+✅ AZIONI RICHIESTE:
+   1. Riscrivere WHY in modo specifico
+   2. Aggiungere riferimenti normativi all'EXPLAIN
